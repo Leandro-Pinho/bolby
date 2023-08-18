@@ -16,7 +16,7 @@ const About = () => {
                         <p className="about__description">
                             I am Bolby Doe, web developer from London, United Kingdom. I have rich experience in web site design and building and customization, also I am good at WordPress.
                         </p>
-                        <a href="#" className="btn">Download CV</a>
+                        <a href="#" download="Leandro_Pinho_CV.pdf" className="btn">Download CV</a>
                     </div>
                     <div className="about__skills grid">
                         <div className="skills__data">

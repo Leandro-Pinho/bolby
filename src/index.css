@@ -142,6 +142,7 @@ img {
   display: inline-block;
   background-color: var(--first-color);
   font-weight: var(--font-bold);
+  cursor: pointer;
 }
 
 @keyframes button-push {

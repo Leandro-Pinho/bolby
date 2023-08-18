@@ -31,6 +31,7 @@
     color: var(--title-color);
     font-size: 1.3rem;
     transition: .3s;
+    cursor: pointer;
 }
 
 .home__social-link:hover {
@@ -95,6 +96,7 @@
     top: 0;
     height: 100%;
     width: 100%;
+    z-index: -2;
 }
 
 .shape {
