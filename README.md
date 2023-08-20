@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## 🔨 Funcionalidades do projeto
+
+É um projeto que consome uma api trazendo os paises do mundo, podendo filtrar por nome do país especifico ou por seu continente.
+
+![](gif/bolby.gif)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
