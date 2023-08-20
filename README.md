@@ -14,7 +14,7 @@ In the project directory, you can run:
 
 para screen mobile
 
-![](gif/bolbyresp.gif)
+![](gif/bolbyResp.gif)
 
 
 ### `npm start`
