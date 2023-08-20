@@ -52,6 +52,7 @@
     margin: 0.5rem 0;
 }
 
+/* ========== responsividade =========== */
 @media screen and (max-width: 1024px) {
     .resume__container {
         grid-template-columns: 450px;
@@ -67,5 +68,25 @@
 @media screen and (max-width: 576px) {
     .resume__container {
         grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .timeline__item {
+        padding-left: 1.875rem;
+        padding-bottom: 1.875rem;
+    }
+
+    .timeline__item::before {
+        left: 0;
+    }
+
+    .timeline .icon-briefcase,
+    .timeline .icon-graduation {
+        left: -9px;
+    }
+
+    .timeline__text {
+        text-align: justify;
     }
 }

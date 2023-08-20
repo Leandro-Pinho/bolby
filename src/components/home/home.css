@@ -158,6 +158,7 @@
     bottom: 10%;
 }
 
+/* ========== responsividade =========== */
 @media screen and (max-width: 1024px) {
     .home__social-link {
         left: -110px;

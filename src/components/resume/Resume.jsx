@@ -22,6 +22,7 @@ const Resume = () => {
                 />
               )
             }
+            return null
           })}
         </div>
 
@@ -38,6 +39,7 @@ const Resume = () => {
                 />
               )
             }
+            return null
           })}
         </div>
       </div>
