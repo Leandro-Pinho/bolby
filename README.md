@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# PortFolio Personal
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,9 +8,13 @@ In the project directory, you can run:
 
 ## 🔨 Funcionalidades do projeto
 
-É um projeto que consome uma api trazendo os paises do mundo, podendo filtrar por nome do país especifico ou por seu continente.
+É um portfoilio proficional e responsivo.
 
 ![](gif/bolby.gif)
+
+para screen mobile
+
+![](gif/bolby-resp.gif)
 
 
 ### `npm start`
